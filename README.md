@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @INGERAL
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning R
+- 🌱 I’m currently learning R and IdeaScript
 - 💞️ I’m looking to collaborate on energy market (electricity)
 - 📫 How to reach me lgeral@msn.com
 
